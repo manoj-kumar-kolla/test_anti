@@ -1,0 +1,21 @@
+{
+  "name": "skypulse-weather-app",
+  "version": "1.0.0",
+  "description": "A modern, responsive weather forecast web application prototype featuring live Open-Meteo data, dynamic weather animations, and glassmorphic UI.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "weather",
+    "forecast",
+    "prototype",
+    "open-meteo",
+    "glassmorphism",
+    "responsive"
+  ],
+  "author": "",
+  "license": "MIT"
+}
